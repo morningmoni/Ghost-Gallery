@@ -34,7 +34,7 @@ You have to escape the gallery by solving several puzzles within time limit. For
 
 
 
-**BMG**: from video game *To the Moon*
+**BGM**: from video game *To the Moon*
 
 **Pictures**: my friend DQ
 
