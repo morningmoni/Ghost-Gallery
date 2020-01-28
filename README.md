@@ -1,8 +1,10 @@
-# Ghost Gallery
+## Ghost Gallery
 
-Ghost gallery is an escape-room game (narratives in Chinese) written in a week in June 2014. It is purely implemented in low-level OpenGL and runs on Windows (**.exe file included**).
+Ghost gallery is an escape-room game (narratives in Chinese) I wrote in a week in June 2014. It is purely implemented in low-level OpenGL and runs on Windows (**Ghost Gallery.exe file included**).
 
 You have to escape the gallery by solving several puzzles within time limit. For example:
+
+
 
 #### Puzzle of the "Narrow" Wall
 
@@ -44,7 +46,7 @@ You have to escape the gallery by solving several puzzles within time limit. For
 
 
 
-PS: the control is a bit hard by mouse and I would suggest using keyboard.
+PS: the control is a bit hard by mouse and I would suggest using keyboard mainly.
 
-PPS: the code and directory structure are quite messy, I don't recommend reading...
+PPS: the code and directory structure are quite messy and I don't recommend reading...
 
